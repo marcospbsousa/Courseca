@@ -3,7 +3,7 @@ applications:
   - Coursecadb
   disk_quota: 1024M
   host: courseca-test
-  name: Courseca_test
+  name: Courseca
   path: .
   domain: mybluemix.net
   instances: 1
